@@ -7,6 +7,6 @@ file.edit(Mm)
 
 ## adding below to Mm files and save... 
 
-CXX14=$(BINPREF)g++ -O2 -march=native -mtune=native
+CXX14=$(BINPREF)g++ -O2 -march=native -mtune=native 
 CXX14FLAGS=-O3 -march=native -mtune=native
 CXX11FLAGS=-O3 -march=native -mtune=native
